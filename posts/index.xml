@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rain&#39;s Notebook</title>
-    <link>https://rainjiang.com/posts.html</link>
+    <link>http://rainjiang.com/posts.html</link>
     <description>Recent content in Posts on Rain&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 May 2018 11:40:56 +0100</lastBuildDate>
     
-	<atom:link href="https://rainjiang.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rainjiang.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://rainjiang.com/2018/05/hello-world.html</link>
+      <link>http://rainjiang.com/2018/05/hello-world.html</link>
       <pubDate>Sat, 12 May 2018 11:40:56 +0100</pubDate>
       
-      <guid>https://rainjiang.com/2018/05/hello-world.html</guid>
+      <guid>http://rainjiang.com/2018/05/hello-world.html</guid>
       <description>English Test English
 中文 中文测试</description>
     </item>

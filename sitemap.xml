@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rainjiang.com/2018/05/hello-world.html</loc>
+    <loc>http://rainjiang.com/2018/05/hello-world.html</loc>
     <lastmod>2018-05-12T11:40:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rainjiang.com/categories.html</loc>
+    <loc>http://rainjiang.com/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rainjiang.com/posts.html</loc>
-    <lastmod>2018-05-12T11:40:56+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rainjiang.com/</loc>
+    <loc>http://rainjiang.com/posts.html</loc>
     <lastmod>2018-05-12T11:40:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rainjiang.com/tags.html</loc>
+    <loc>http://rainjiang.com/</loc>
+    <lastmod>2018-05-12T11:40:56+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rainjiang.com/tags.html</loc>
     <priority>0</priority>
   </url>
   
